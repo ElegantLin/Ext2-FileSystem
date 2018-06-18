@@ -2,8 +2,6 @@
 #ifndef INODE_H_INCLUDED
 #define INODE_H_INCLUDED
 
-#include"Buffer.h"
-
 class Inode
 {
 public:
